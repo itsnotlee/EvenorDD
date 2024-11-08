@@ -13,4 +13,4 @@ Before running this project, make sure you have:
    - You can clone the source code from GitHub using the following command:
    
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/itsnotlee/EvenorDD.git
