@@ -9,7 +9,7 @@ Before running this project, make sure you have:
 - An IDE that supports Java, such as [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org/), or [VS Code](https://code.visualstudio.com/) (with the Java extension).
 
 ### Installation
-1. **Clone the project**:
+**Clone the project**:
    - You can clone the source code from GitHub using the following command:
    
    ```bash
